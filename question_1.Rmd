@@ -3,6 +3,7 @@ title: "Solution to Question 1"
 author: "Sumayyah Musa"
 date: "4/28/2021"
 output: html_document
+keep_md: true
 ---
 
 ```{r setup, include=FALSE}
